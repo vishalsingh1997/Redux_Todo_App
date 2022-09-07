@@ -20,7 +20,7 @@ const Home = () => {
 
     return (
         <>
-            <div className="container">
+            <div   style={{background:'#ebf0f7', border:'1px solid', height:'89vh'}}>
                 <section className='mt-3 text-center'>
                     <h3>Enter your today task </h3>
 
